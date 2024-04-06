@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Bulbasaur",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "id":2,
+        "name": "Ivysaur",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+        "id":3,
+        "name": "Venusaur",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+        "id":4,
+        "name": "Charmander",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+        "id":5,
+        "name": "Charmeleon",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+        "id":6,
+        "name": "Charizard",
+        "imageUrl":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    }
+]
