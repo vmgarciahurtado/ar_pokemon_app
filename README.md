@@ -1,16 +1,42 @@
-# ar_pokemon_app
+# Realidad Aumentada con Flutter + Unity
 
-A new Flutter project.
+## Demostración
 
-## Getting Started
+![AR 1](assets/demo/ar_1.gif)
+![AR 2](assets/demo/ar_2.gif)
+![AR 3](assets/demo/ar_3.gif)
+![AR 4](assets/demo/ar_4.gif)
 
-This project is a starting point for a Flutter application.
+## Descripción
 
-A few resources to get you started if this is your first Flutter project:
+Este proyecto proporciona una solución para crear experiencias de realidad aumentada (AR) utilizando Flutter y Unity, especialmente diseñada para dispositivos que no son compatibles con ARCore. Esta implementación utiliza la biblioteca Vuforia de Unity y el paquete  [flutter_unity_widget](https://pub.dev/packages/flutter_unity_widget) para habilitar experiencias AR en una amplia gama de dispositivos, incluyendo aquellos de gama baja.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Problema
+
+Muchos dispositivos móviles, especialmente los de gama baja, no cumplen con los requisitos mínimos para utilizar ARCore, lo que limita la capacidad de crear experiencias AR inmersivas para un amplio público.
+
+## Solución
+
+Esta solución combina Flutter para el desarrollo de la interfaz de usuario y la lógica de la aplicación, con Unity y Vuforia para la implementación de la realidad aumentada. se utiliza un "image target" y un script personalizado en C# para desbloquear la experiencia AR en dispositivos que de otra manera no la tendrían.
+
+## Características principales
+
+- Compatibilidad con dispositivos de gama baja
+- Experiencia de usuario fluida gracias a la integración Flutter-Unity
+- Flexibilidad para crear experiencias AR complejas y personalizadas
+
+
+## Más información
+
+Para una explicación detallada del proceso de desarrollo y los desafíos enfrentados, consulta este artículo en Medium:
+
+[Construyendo experiencias de realidad aumentada con Flutter + Unity: Solución para dispositivos incompatibles con ARCore](https://medium.com/@vmgarciahurtado/construyendo-experiencias-de-realidad-aumentada-con-flutter-unity-soluci%C3%B3n-para-dispositivos-da7eb8bbe3b5)
+
+## Contacto
+
+[https://vmgarciahurtado.com](https://vmgarciahurtado.com)
+
+
+
