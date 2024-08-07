@@ -2,10 +2,16 @@
 
 ## Demostración
 
-![AR 1](assets/demo/ar_1.gif)
-![AR 2](assets/demo/ar_2.gif)
-![AR 3](assets/demo/ar_3.gif)
-![AR 4](assets/demo/ar_4.gif)
+<table>
+  <tr>
+    <td><img src="assets/demo/ar_1.gif" alt="AR 1" width="400"/></td>
+    <td><img src="assets/demo/ar_2.gif" alt="AR 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/demo/ar_3.gif" alt="AR 3" width="400"/></td>
+    <td><img src="assets/demo/ar_4.gif" alt="AR 4" width="400"/></td>
+  </tr>
+</table>
 
 ## Descripción
 
